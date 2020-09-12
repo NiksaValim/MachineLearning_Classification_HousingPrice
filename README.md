@@ -26,4 +26,4 @@ After defining SalePrice into five categories, Machine learning models were deve
     5) SVC 
     6) Decision Tree Classifier
 
-to predic SalePrice. I developed ML modeled and evaluated train and test accuracies, model precision, and model recall.
+to predic SalePrice. I developed ML models and evaluated train and test accuracies, model precision, and model recall.
