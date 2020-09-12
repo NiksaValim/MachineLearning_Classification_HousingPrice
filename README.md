@@ -19,10 +19,10 @@ After defining SalePrice into five categories, Machine learning models were deve
 1) I used Random Forest Classifier to predic the categories of SalePrice. In this part, I used grid search method to find the optimum parameters for Random Forest Classifier.
 
 2) I used six classification ML models includig: 
-1) Random Forest Classifier 
-2) Logistic Regression 
-3) Gaussian Naive Baysian 
-4) K Neighbor Classifier 
-5) SVC 
-6) Decision Tree Classifier
+    1) Random Forest Classifier 
+    2) Logistic Regression 
+    3) Gaussian Naive Baysian 
+    4) K Neighbor Classifier 
+    5) SVC 
+    6) Decision Tree Classifier
 to predic SalePrice. I developed ML modeled and evaluated train and test accuracies, model precision, and model recall.
