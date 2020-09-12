@@ -1,4 +1,4 @@
-# Kaggle-HousingPrice-Classification
+# HousingPrice Classification - Kaggle Dataset
 
 In this project, the data set of Housing Price competition of Kaggle, which is a public data set, has been chosen. https://www.kaggle.com/c/home-data-for-ml-course/data
 Kaggle data set consists of two data files: train and test data files. In this project, I worked on train data file, which I included in the file. The name of file is 'KaggleHousingDataFile.csv'. All evaluations were performed on this data file.
